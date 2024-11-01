@@ -10,7 +10,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 * [Setting Up](./tutorial/setting_up.md)
 * Loading And Saving Image
-  * Loading And Saving Image Files
+  * [Loading And Saving Image Files](./tutorial/loading_and_saving_image_files.md)
   * Loading And Saving Images In Memory
 * Image Metadata
   * Width And Height

@@ -20,6 +20,6 @@ The dependencies in `Cargo.toml` file should look like this:
 image = "0.25.4"
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Loading And Saving Image Files](./loading_and_saving_image_files.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
