@@ -20,6 +20,6 @@ Check [here](https://github.com/image-rs/image?tab=readme-ov-file#supported-imag
 
 We can also use [save_with_format](https://docs.rs/image/latest/image/enum.DynamicImage.html#method.save_with_format) to save an image with an explicitly specified image format.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Loading And Saving Images In Memory](./loading_and_saving_images_in_memory.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
