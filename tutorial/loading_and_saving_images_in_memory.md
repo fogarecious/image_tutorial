@@ -40,6 +40,6 @@ my_image.jpg:
 saved_image.jpg:
 ![saved_image](./image/saved_image.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Width And Height](./width_and_height.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
