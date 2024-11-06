@@ -19,7 +19,32 @@ We try to keep each part of the tutorial as simple as possible.
 ## Processing Images
 
 * Image Editing Functions
+  * Flipping
+  * Rotating
+  * Cropping
+  * Resizing
+    * Resizing While Preserving Aspect Ratios
+    * Resizing Without Preserving Aspect Ratios
+    * Resizing To Fill A Bound
+    * Resizing To Thumbnail
 * Image Transformation Functions
+  * Gray Scale
+  * Inverting Colors
+  * Rotating Colors
+  * Brightening Images
+  * Image Contrast
+  * Blurring Images
+  * Un-sharpening Images
+* Drawing On Images
+  * Overlaying Images
+  * Tiling Images
+  * Simple Gradient
+  * Manipulating Pixels
+
+## Miscellaneous
+
+* Controlling JPEG Quality
+* Creating GIF Animations
 
 ## See Also
 
