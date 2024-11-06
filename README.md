@@ -14,7 +14,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Loading And Saving Images In Memory](./tutorial/loading_and_saving_images_in_memory.md)
 * Image Metadata
   * [Width And Height](./tutorial/width_and_height.md)
-  * Color Types
+  * [Color Types](./tutorial/color_types.md)
 
 ## Processing Images
 

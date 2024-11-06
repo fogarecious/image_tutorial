@@ -22,6 +22,6 @@ Height: 768
 Dimensions: (1024, 768)
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Color Types](./color_types.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
