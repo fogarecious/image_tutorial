@@ -18,6 +18,6 @@ Color type: Rgb8
 
 `Rgb8` means each color in the image is consisted of red, blue and green channels and each channel has 8 bits.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Flipping](./flipping.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

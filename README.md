@@ -19,7 +19,7 @@ We try to keep each part of the tutorial as simple as possible.
 ## Processing Images
 
 * Image Editing Functions
-  * Flipping
+  * [Flipping](./tutorial/flipping.md)
   * Rotating
   * Cropping
   * Resizing
