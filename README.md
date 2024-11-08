@@ -20,7 +20,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 * Image Editing Functions
   * [Flipping](./tutorial/flipping.md)
-  * Rotating
+  * [Rotating](./tutorial/rotating.md)
   * Cropping
   * Resizing
     * Resizing While Preserving Aspect Ratios
