@@ -36,6 +36,6 @@ rotate270.jpg:
 
 We can also use [apply_orientation](https://docs.rs/image/latest/image/enum.DynamicImage.html#method.apply_orientation) to achieve the same results.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Cropping](./cropping.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
