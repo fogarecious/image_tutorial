@@ -23,7 +23,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Rotating](./tutorial/rotating.md)
   * [Cropping](./tutorial/cropping.md)
   * Resizing
-    * Resizing While Preserving Aspect Ratios
+    * [Resizing While Preserving Aspect Ratios](./tutorial/resizing_while_preserving_aspect_ratios.md)
     * Resizing Without Preserving Aspect Ratios
     * Resizing To Fill A Bound
     * Resizing To Thumbnail

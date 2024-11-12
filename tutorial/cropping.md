@@ -20,6 +20,6 @@ crop.jpg:
 
 ![crop](./image/crop.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Resizing While Preserving Aspect Ratios](./resizing_while_preserving_aspect_ratios.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
