@@ -24,7 +24,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Cropping](./tutorial/cropping.md)
   * Resizing
     * [Resizing While Preserving Aspect Ratios](./tutorial/resizing_while_preserving_aspect_ratios.md)
-    * Resizing Without Preserving Aspect Ratios
+    * [Resizing Without Preserving Aspect Ratios](./tutorial/resizing_without_preserving_aspect_ratios.md)
     * Resizing To Fill A Bound
     * Resizing To Thumbnail
 * Image Transformation Functions

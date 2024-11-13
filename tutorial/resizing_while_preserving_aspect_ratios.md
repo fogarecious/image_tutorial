@@ -30,6 +30,6 @@ Readers interested in the filters may refer to [the document](https://docs.rs/im
 The example scales down the image.
 But one could scale up an image to make it bigger.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Resizing Without Preserving Aspect Ratios](./resizing_without_preserving_aspect_ratios.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
