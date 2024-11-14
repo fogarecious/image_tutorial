@@ -23,6 +23,6 @@ resize_exact.jpg:
 
 The new image is square as we specified.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Resizing To Fill A Bound](./resizing_to_fill_a_bound.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
