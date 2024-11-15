@@ -22,6 +22,6 @@ resize_to_fill.jpg:
 
 ![resize_to_fill](./image/resize_to_fill.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Resizing To Thumbnail](./resizing_to_thumbnail.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
