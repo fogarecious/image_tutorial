@@ -28,7 +28,7 @@ We try to keep each part of the tutorial as simple as possible.
     * [Resizing To Fill A Bound](./tutorial/resizing_to_fill_a_bound.md)
     * [Resizing To Thumbnail](./tutorial/resizing_to_thumbnail.md)
 * Image Transformation Functions
-  * Gray Scale
+  * [Gray Scale](./tutorial/gray_scale.md)
   * Inverting Colors
   * Rotating Colors
   * Brightening Images

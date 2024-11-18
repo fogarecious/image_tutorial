@@ -22,6 +22,6 @@ thumbnail.jpg:
 
 There is also a method [thumbnail_exact](https://docs.rs/image/latest/image/enum.DynamicImage.html#method.thumbnail_exact), which is the corresponding method of [resize_exact](https://docs.rs/image/latest/image/enum.DynamicImage.html#method.resize_exact).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Gray Scale](./gray_scale.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
