@@ -29,7 +29,7 @@ We try to keep each part of the tutorial as simple as possible.
     * [Resizing To Thumbnail](./tutorial/resizing_to_thumbnail.md)
 * Image Transformation Functions
   * [Gray Scale](./tutorial/gray_scale.md)
-  * Inverting Colors
+  * [Inverting Colors](./tutorial/inverting_colors.md)
   * Rotating Colors
   * Brightening Images
   * Image Contrast

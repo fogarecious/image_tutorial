@@ -20,6 +20,6 @@ grayscale.jpg:
 
 ![grayscale](./image/grayscale.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Inverting Colors](./inverting_colors.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
