@@ -22,6 +22,6 @@ invert.jpg:
 Note that [invert](https://docs.rs/image/latest/image/enum.DynamicImage.html#method.invert) will not create new images.
 It updates the original image in place.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Rotating Colors](./rotating_colors.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

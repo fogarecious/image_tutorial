@@ -30,7 +30,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Image Transformation Functions
   * [Gray Scale](./tutorial/gray_scale.md)
   * [Inverting Colors](./tutorial/inverting_colors.md)
-  * Rotating Colors
+  * [Rotating Colors](./tutorial/rotating_colors.md)
   * Brightening Images
   * Image Contrast
   * Blurring Images
