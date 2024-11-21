@@ -31,7 +31,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Gray Scale](./tutorial/gray_scale.md)
   * [Inverting Colors](./tutorial/inverting_colors.md)
   * [Rotating Colors](./tutorial/rotating_colors.md)
-  * Brightening Images
+  * [Brightening Images](./tutorial/brightening_images.md)
   * Image Contrast
   * Blurring Images
   * Un-sharpening Images

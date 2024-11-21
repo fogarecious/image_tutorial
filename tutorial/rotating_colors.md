@@ -25,6 +25,6 @@ huerotate.jpg:
 
 Note that calling `huerotate(180)` is different from [invert](https://docs.rs/image/latest/image/enum.DynamicImage.html#method.invert), which also inverts other properties of a color.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Brightening Images](./brightening_images.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
