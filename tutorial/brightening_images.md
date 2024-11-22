@@ -30,6 +30,6 @@ brighten_negative.jpg:
 
 ![brighten_negative](./image/brighten_negative.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Image Contrast](./image_contrast.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
