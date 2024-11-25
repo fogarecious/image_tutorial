@@ -34,7 +34,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Brightening Images](./tutorial/brightening_images.md)
   * [Image Contrast](./tutorial/image_contrast.md)
   * Blurring Images
-  * Un-sharpening Images
+  * Making Images Clearer
 * Drawing On Images
   * Overlaying Images
   * Tiling Images
