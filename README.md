@@ -33,7 +33,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Rotating Colors](./tutorial/rotating_colors.md)
   * [Brightening Images](./tutorial/brightening_images.md)
   * [Image Contrast](./tutorial/image_contrast.md)
-  * Blurring Images
+  * [Blurring Images](./tutorial/blurring_images.md)
   * Making Images Clearer
 * Drawing On Images
   * Overlaying Images

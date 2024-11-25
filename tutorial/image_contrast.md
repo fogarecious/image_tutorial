@@ -32,6 +32,6 @@ adjust_contrast_negative.jpg:
 
 ![adjust_contrast_negative](./image/adjust_contrast_negative.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Blurring Images](./blurring_images.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
