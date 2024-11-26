@@ -27,6 +27,6 @@ The following picture shows the result when the parameter is `100`.
 
 Use [fast_blur](https://docs.rs/image/latest/image/enum.DynamicImage.html#method.fast_blur) for similar results but with faster runtime.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Making Images Clearer](./making_images_clearer.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
