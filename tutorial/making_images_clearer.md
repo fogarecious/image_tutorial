@@ -26,6 +26,6 @@ For example, making the first parameter `100` provides the following result.
 
 Keep the second parameter small to get better results.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Overlaying Images](./overlaying_images.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
