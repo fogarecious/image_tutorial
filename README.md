@@ -37,7 +37,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Making Images Clearer](./tutorial/making_images_clearer.md)
 * Drawing On Images
   * [Overlaying Images](./tutorial/overlaying_images.md)
-  * Tiling Images
+  * [Tiling Images](./tutorial/tiling_images.md)
   * Simple Gradient
   * Manipulating Pixels
 

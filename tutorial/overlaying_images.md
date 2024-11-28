@@ -21,6 +21,6 @@ overlay.jpg:
 
 Use [overlay_bounds](https://docs.rs/image/latest/image/imageops/fn.overlay_bounds.html) for more control on how to overlay the image.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Tiling Images](./tiling_images.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
