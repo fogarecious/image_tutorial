@@ -23,6 +23,6 @@ tile.jpg:
 
 ![tile](./image/tile.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Simple Gradient](./simple_gradient.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

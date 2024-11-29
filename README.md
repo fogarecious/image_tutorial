@@ -38,7 +38,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Drawing On Images
   * [Overlaying Images](./tutorial/overlaying_images.md)
   * [Tiling Images](./tutorial/tiling_images.md)
-  * Simple Gradient
+  * [Simple Gradient](./tutorial/simple_gradient.md)
   * Manipulating Pixels
 
 ## Miscellaneous
