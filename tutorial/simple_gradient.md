@@ -27,6 +27,6 @@ To specify the two colors of the gradient, we pass two [Rgba](https://docs.rs/im
 
 [vertical_gradient](https://docs.rs/image/latest/image/imageops/fn.vertical_gradient.html) can be drawn similarly.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Manipulating Pixels](./manipulating_pixels.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

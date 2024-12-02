@@ -39,7 +39,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Overlaying Images](./tutorial/overlaying_images.md)
   * [Tiling Images](./tutorial/tiling_images.md)
   * [Simple Gradient](./tutorial/simple_gradient.md)
-  * Manipulating Pixels
+  * [Manipulating Pixels](./tutorial/manipulating_pixels.md)
 
 ## Miscellaneous
 
