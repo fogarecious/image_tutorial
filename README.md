@@ -43,7 +43,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 ## Miscellaneous
 
-* Controlling JPEG Quality
+* [Controlling JPEG Quality](./tutorial/controlling_jpeg_quality.md)
 * Creating GIF Animations
 
 ## See Also

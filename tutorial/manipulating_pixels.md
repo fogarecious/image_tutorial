@@ -88,6 +88,6 @@ let buf = buf.into_rgb8();
 
 We first transform the [ImageBuffer](https://docs.rs/image/latest/image/struct.ImageBuffer.html) to [DynamicImage](https://docs.rs/image/latest/image/enum.DynamicImage.html), and then transform it again to a [DynamicImage](https://docs.rs/image/latest/image/enum.DynamicImage.html) with color type `rgb8`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Controlling JPEG Quality](./controlling_jpeg_quality.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
