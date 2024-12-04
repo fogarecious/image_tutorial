@@ -29,6 +29,6 @@ jpeg_quality.jpg:
 
 ![jpeg_quality](./image/jpeg_quality.jpg)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Creating GIF Animations](./creating_gif_animations.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
