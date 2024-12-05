@@ -1,10 +1,10 @@
 # Simple *image* Tutorial
 
-[*image*](https://github.com/image-rs/image) is an image processing library.
-This tutorial serves as a quick start for [*image*](https://github.com/image-rs/image).
+[*image*](https://github.com/image-rs/image) and [*imageproc*](https://github.com/image-rs/imageproc) are image processing libraries.
+This tutorial serves as a quick start for [*image*](https://github.com/image-rs/image) and [*imageproc*](https://github.com/image-rs/imageproc).
 We try to keep each part of the tutorial as simple as possible.
 
-(The tutorial is for *image* version `0.25.4`.)
+(The tutorial is for *image* version `0.25.4` and *imageproc* version `0.25.0`.)
 
 ## Basic
 
@@ -46,9 +46,23 @@ We try to keep each part of the tutorial as simple as possible.
 * [Controlling JPEG Quality](./tutorial/controlling_jpeg_quality.md)
 * [Creating GIF Animations](./tutorial/creating_gif_animations.md)
 
+## Advanced Image Processing
+
+* Setting Up For *imageproc*
+* Drawing Basic Shapes
+  * Drawing Lines
+  * Drawing Antialiased Lines
+  * Drawing Rectangles
+  * Drawing Polygons
+  * Drawing Circles
+  * Drawing Ellipses
+  * Drawing Crosses
+  * Drawing Cubic Bezier Curves
+  * Drawing Texts
 ## See Also
 
-* [*image*](https://github.com/image-rs/image) - the library
+* [*image*](https://github.com/image-rs/image) - the image library
+* [*imageproc*](https://github.com/image-rs/imageproc) - the advanced image library
 
 ## Contributions
 
