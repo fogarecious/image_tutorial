@@ -54,6 +54,6 @@ animation.gif:
 ![animation](./image/animation.gif)
 (Click the image to see the animation.)
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Setting Up For *imageproc*](./setting_up_for_imageproc.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

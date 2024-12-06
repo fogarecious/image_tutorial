@@ -48,7 +48,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 ## Advanced Image Processing
 
-* Setting Up For *imageproc*
+* [Setting Up For *imageproc*](./tutorial/setting_up_for_imageproc.md)
 * Drawing Basic Shapes
   * Drawing Lines
   * Drawing Antialiased Lines
