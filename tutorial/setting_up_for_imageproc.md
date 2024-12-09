@@ -19,6 +19,6 @@ If we only add [*imageproc*](https://github.com/image-rs/imageproc) without addi
 let img = imageproc::image::open("my_image.jpg").unwrap();
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Lines](./drawing_lines.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
