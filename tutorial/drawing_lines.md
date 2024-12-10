@@ -29,6 +29,6 @@ line.png:
 Another function to draw a line is by [draw_line_segment](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_line_segment.html).
 Instead of mutating the original image, this function creates a copy of the image and draws on the copy.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Antialiased Lines](./drawing_antialiased_lines.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

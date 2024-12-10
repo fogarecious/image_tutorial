@@ -51,7 +51,7 @@ We try to keep each part of the tutorial as simple as possible.
 * [Setting Up For *imageproc*](./tutorial/setting_up_for_imageproc.md)
 * Drawing Basic Shapes
   * [Drawing Lines](./tutorial/drawing_lines.md)
-  * Drawing Antialiased Lines
+  * [Drawing Antialiased Lines](./tutorial/drawing_antialiased_lines.md)
   * Drawing Rectangles
   * Drawing Polygons
   * Drawing Circles
