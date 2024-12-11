@@ -31,6 +31,6 @@ Note that the two end points of the line is of type `(i32, i32)` instead of `(f3
 
 To draw on a copy of the image, we can use [draw_antialiased_line_segment](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_antialiased_line_segment.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Rectangles](./drawing_rectangles.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

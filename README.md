@@ -52,7 +52,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Drawing Basic Shapes
   * [Drawing Lines](./tutorial/drawing_lines.md)
   * [Drawing Antialiased Lines](./tutorial/drawing_antialiased_lines.md)
-  * Drawing Rectangles
+  * [Drawing Rectangles](./tutorial/drawing_rectangles.md)
   * Drawing Polygons
   * Drawing Circles
   * Drawing Ellipses
