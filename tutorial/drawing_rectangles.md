@@ -29,6 +29,6 @@ This is done by [draw_hollow_rect_mut](https://docs.rs/imageproc/latest/imagepro
 
 To draw on a copied image, we can use [draw_filled_rect](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_filled_rect.html) and [draw_hollow_rect](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_hollow_rect.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Polygons](./drawing_polygons.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
