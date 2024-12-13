@@ -37,6 +37,6 @@ We can also draw an antialiased polygon by [draw_antialiased_polygon_mut](https:
 
 To draw on a copied image, we can use [draw_polygon](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_polygon.html), [draw_hollow_polygon](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_hollow_polygon.html) and [draw_antialiased_polygon](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_antialiased_polygon.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Circles](./drawing_circles.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

@@ -54,7 +54,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Drawing Antialiased Lines](./tutorial/drawing_antialiased_lines.md)
   * [Drawing Rectangles](./tutorial/drawing_rectangles.md)
   * [Drawing Polygons](./tutorial/drawing_polygons.md)
-  * Drawing Circles
+  * [Drawing Circles](./tutorial/drawing_circles.md)
   * Drawing Ellipses
   * Drawing Crosses
   * Drawing Cubic Bezier Curves
