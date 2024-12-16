@@ -30,6 +30,6 @@ To only draw the border, we can use [draw_hollow_circle_mut](https://docs.rs/ima
 
 To draw on a copied image, we can use [draw_filled_circle](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_filled_circle.html) and [draw_hollow_circle](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_hollow_circle.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Ellipses](./drawing_ellipses.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
