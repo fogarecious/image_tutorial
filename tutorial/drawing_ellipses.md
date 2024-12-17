@@ -32,6 +32,6 @@ To draw only the border, we can use [draw_hollow_ellipse_mut](https://docs.rs/im
 
 To draw an ellipse on a copied image, we can use [draw_filled_ellipse](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_filled_ellipse.html) and [draw_hollow_ellipse](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_hollow_ellipse.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Crosses](./drawing_crosses.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

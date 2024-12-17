@@ -56,7 +56,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Drawing Polygons](./tutorial/drawing_polygons.md)
   * [Drawing Circles](./tutorial/drawing_circles.md)
   * [Drawing Ellipses](./tutorial/drawing_ellipses.md)
-  * Drawing Crosses
+  * [Drawing Crosses](./tutorial/drawing_crosses.md)
   * Drawing Cubic Bezier Curves
   * Drawing Texts
 ## See Also
