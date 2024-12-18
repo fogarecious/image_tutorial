@@ -20,6 +20,6 @@ cross.png:
 
 To draw a cross on a copied image, we can use [draw_cross](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_cross.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Cubic Bezier Curves](./drawing_cubic_bezier_curves.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
