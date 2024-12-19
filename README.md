@@ -58,7 +58,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Drawing Ellipses](./tutorial/drawing_ellipses.md)
   * [Drawing Crosses](./tutorial/drawing_crosses.md)
   * [Drawing Cubic Bezier Curves](./tutorial/drawing_cubic_bezier_curves.md)
-  * Drawing Texts
+  * [Drawing Texts](./tutorial/drawing_texts.md)
 ## See Also
 
 * [*image*](https://github.com/image-rs/image) - the image library

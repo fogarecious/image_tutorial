@@ -30,6 +30,6 @@ cubic_bezier_curve.png:
 
 To draw on a copied image, we can use [draw_cubic_bezier_curve](https://docs.rs/imageproc/latest/imageproc/drawing/fn.draw_cubic_bezier_curve.html).
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Drawing Texts](./drawing_texts.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
