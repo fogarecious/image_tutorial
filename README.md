@@ -59,6 +59,11 @@ We try to keep each part of the tutorial as simple as possible.
   * [Drawing Crosses](./tutorial/drawing_crosses.md)
   * [Drawing Cubic Bezier Curves](./tutorial/drawing_cubic_bezier_curves.md)
   * [Drawing Texts](./tutorial/drawing_texts.md)
+* Transformation
+  * Translating
+  * Rotating With Arbitrary Angles
+  * Rotating, Scaling and Translating Together
+  * Arbitrary Transformation
 ## See Also
 
 * [*image*](https://github.com/image-rs/image) - the image library
